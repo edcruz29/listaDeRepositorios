@@ -3,7 +3,6 @@ import "../styles/repositoryStyle.scss";
 import { useState, useEffect } from "react";
 
 
-
 const RepositoryList = () => {
   const [repositories, setRepositories] = useState([]);
 
